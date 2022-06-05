@@ -11,10 +11,6 @@ Nestes foram usadas bibliotecas nativas do python, assim simplificando o seu ent
 ## Images
 Exemplo de janela do código "Relógio"
 
-<p>
-  <img src="Here/frame 1.png>
-</p>
-            
-![Imagem](Here/frame 1.png)
+![Frame 1](https://user-images.githubusercontent.com/57080830/172060107-bf5c7e03-5f78-45d4-b3f4-c8d0144c12ae.png)
 
 Feito por [@EduardoHrq](https://github.com/EduardoHrq)
