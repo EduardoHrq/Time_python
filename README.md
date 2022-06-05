@@ -8,4 +8,9 @@ Nestes foram usadas bibliotecas nativas do python, assim simplificando o seu ent
 + time: para ter acesso ao metodo Sleep, para que possa separar o tempo de cada ação corretamente
 + os: da acesso à algumas manipulações ao terminal, como no caso limpa-lo
 
+## Images
+Exemplo de janela do código "Relógio"
+
+![Imagem de referecia](./Here/frame1.png)
+
 Feito por [@EduardoHrq](https://github.com/EduardoHrq)
